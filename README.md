@@ -4,7 +4,7 @@ World time app with day night background changes.
 
 # APK File
 
-You can download apk file named Quotes.apk uploaded above!!..
+You can download apk file named app-release.apk uploaded above!!..
 
 # Screenshot
 
