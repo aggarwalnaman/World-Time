@@ -1,6 +1,6 @@
 # worldtime
 
-A new Flutter application.
+World time app with day night background changes.
 
 # APK File
 
