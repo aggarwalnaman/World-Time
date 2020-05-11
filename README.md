@@ -8,8 +8,7 @@ You can download apk file named app-release.apk uploaded above!!..
 
 # Screenshot
 
-![Screenshot_2020-05-09-17-59-38-376_namanstore worldtime](https://user-images.githubusercontent.com/42396114/81594482-99c3f300-93de-11ea-96bc-03da032e3139.jpg)     
-![Screenshot_2020-05-09-17-59-24-837_namanstore worldtime](https://user-images.githubusercontent.com/42396114/81594598-cd9f1880-93de-11ea-9313-eaf5237fc048.jpg)
+![Screenshot_2020-05-09-17-59-38-376_namanstore worldtime](https://user-images.githubusercontent.com/42396114/81594482-99c3f300-93de-11ea-96bc-03da032e3139.jpg)    ![Screenshot_2020-05-09-17-59-24-837_namanstore worldtime](https://user-images.githubusercontent.com/42396114/81594598-cd9f1880-93de-11ea-9313-eaf5237fc048.jpg)   ![Screenshot_2020-05-09-17-58-31-827_namanstore worldtime](https://user-images.githubusercontent.com/42396114/81594705-f7f0d600-93de-11ea-8879-8c531aa4b69e.jpg) 
 
 
 ## Getting Started
